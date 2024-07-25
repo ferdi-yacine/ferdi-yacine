@@ -3,4 +3,4 @@
 - 🌱 I’m currently a full stack web developer
 
 -  🌀 About me 
--  A developer with +2 years experience in software and web development. Proficient in web developement especially using MERN stack, making web application run faster and seo optimized
+-  A developer with +3 years experience in software and web development. Proficient in web developement especially using MERN stack, making web application run faster and seo optimized
