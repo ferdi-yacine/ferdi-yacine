@@ -3,4 +3,4 @@
 - 🌱 I’m currently a full stack web developer
 
 -  🌀 About me 
--  A developer with +3 years experience in software and web development. Proficient in web developement especially using MERN stack, making web application run faster and seo optimized
+-  Full-Stack Web Developer (+3 years) specialized in MERN Stack and Next.js, with strong expertise in Data Science and Artificial Intelligence. Experienced in integrating AI-driven features into web platforms, optimizing performance, and delivering scalable, intelligent applications.
